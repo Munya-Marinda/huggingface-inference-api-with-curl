@@ -64,7 +64,3 @@ Contributions are welcome! Please open an issue or submit a pull request if you 
 ## Contact
 
 For any questions or support, please contact [yourname@example.com].
-
----
-
-*This README.md file was generated with the assistance of GPT-4.*
